@@ -5,7 +5,7 @@ let dna = " TCG-TAC-gaC-TAC-CGT-CAG-ACT-TAa-CcA-GTC-cAt-AGA-GCT    ";
 
 //a) Use the .trim() method to remove the leading and trailing whitespace, then print the result.
 
-console.log(/* Your code here. */);
+console.log(dna.trim());
 
 //b) Change all of the letters in the dna string to UPPERCASE, then print the result.
 
