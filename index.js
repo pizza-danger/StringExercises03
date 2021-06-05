@@ -9,7 +9,7 @@ console.log(dna.trim());
 
 //b) Change all of the letters in the dna string to UPPERCASE, then print the result.
 
-console.log();
+console.log(dna.toUpperCase());
 
 //c) Note that after applying the methods above, the original, flawed string is still stored in dna. To fix this, we need to reassign the changes to back to dna.
 //Apply these fixes to your code so that console.log(dna) prints the DNA strand in UPPERCASE with no whitespace.
